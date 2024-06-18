@@ -11,3 +11,8 @@ Microservices: From Design to Deployment, a Free Ebook from NGINX - https://gith
 
 
 Software Architecture Patterns - https://github.com/GunterMueller/Books-3/blob/master/Software%20Architecture%20Patterns.pdf
+
+
+Clean Architecture A Craftsman Guide to Software Structure and Design - https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf
+
+
