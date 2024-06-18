@@ -20,10 +20,14 @@ Enterprise Integration Patterns - Designing, Building And Deploying Messaging - 
 
 Patterns of Enterprise application architecture - https://github.com/ZoranLi/Books1/blob/master/Patterns%20of%20Enterprise%20Application%20Architecture.pdf
 
+Designing Data-Intensive Applications By Martin Kleppmann - https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf
 
+Domain-Driven Design: Tackling Complexity in the Heart of Software - https://github.com/gg-daddy/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf
 
 
 Refactoring Databases: Evolutionary Database Design by Scott J Ambler , Pramod J. Sadalage pdf - https://github.com/shilpathota/Books_Collection/blob/main/microservices/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf
+
+
 Modern Java EE Patterns - https://github.com/GunterMueller/Books-3/blob/master/Modern%20Java%20EE%20Patterns.pdf
 
 
