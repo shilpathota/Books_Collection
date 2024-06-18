@@ -5,3 +5,9 @@ Sam NewMan - Building Microservices O'Reilley - https://github.com/namhoangduc99
 
 
 Practical Event-driven microservices architecture - https://dl.ebooksworld.ir/books/Practical.Event-Driven.Microservices.Architecture.Hugo.Filipe.Oliveira.Rocha.Apress.9781484274675.EBooksWorld.ir.pdf
+
+
+Microservices: From Design to Deployment, a Free Ebook from NGINX - https://github.com/GunterMueller/Books-3/blob/master/Microservices%20From%20Design%20to%20Deploy.pdf
+
+
+Software Architecture Patterns - https://github.com/GunterMueller/Books-3/blob/master/Software%20Architecture%20Patterns.pdf
