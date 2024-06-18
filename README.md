@@ -18,6 +18,10 @@ Clean Architecture A Craftsman Guide to Software Structure and Design - https://
 
 Enterprise Integration Patterns - Designing, Building And Deploying Messaging - https://github.com/GunterMueller/Books-3/blob/master/Enterprise%20Integration%20Patterns%20-%20Designing%2C%20Building%20And%20Deploying%20Messaging.pdf
 
+Patterns of Enterprise application architecture - https://github.com/ZoranLi/Books1/blob/master/Patterns%20of%20Enterprise%20Application%20Architecture.pdf
+
+
+
 
 Refactoring Databases: Evolutionary Database Design by Scott J Ambler , Pramod J. Sadalage pdf - https://github.com/shilpathota/Books_Collection/blob/main/microservices/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf
 Modern Java EE Patterns - https://github.com/GunterMueller/Books-3/blob/master/Modern%20Java%20EE%20Patterns.pdf
