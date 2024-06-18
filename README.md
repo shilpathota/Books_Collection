@@ -16,3 +16,9 @@ Software Architecture Patterns - https://github.com/GunterMueller/Books-3/blob/m
 Clean Architecture A Craftsman Guide to Software Structure and Design - https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf
 
 
+Enterprise Integration Patterns - Designing, Building And Deploying Messaging - https://github.com/GunterMueller/Books-3/blob/master/Enterprise%20Integration%20Patterns%20-%20Designing%2C%20Building%20And%20Deploying%20Messaging.pdf
+
+Modern Java EE Patterns - https://github.com/GunterMueller/Books-3/blob/master/Modern%20Java%20EE%20Patterns.pdf
+
+
+
