@@ -34,3 +34,7 @@ Modern Java EE Patterns - https://github.com/GunterMueller/Books-3/blob/master/M
 
 building_reactive_microservices_in_java.pdf- 
 https://github.com/lafengnan/ebooks-1/blob/master/building_reactive_microservices_in_java.pdf
+
+linear equations learning material - DeepLearning.AI
+
+https://github.com/shilpathota/Books_Collection/blob/main/2CofrPAnSuer5V14ru5Rqg_7065cbe34f094fb8916d30c8cbb12df1_M4ML-C1-W1.pdf
