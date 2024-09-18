@@ -38,3 +38,5 @@ https://github.com/lafengnan/ebooks-1/blob/master/building_reactive_microservice
 linear equations learning material - DeepLearning.AI
 
 https://github.com/shilpathota/Books_Collection/blob/main/2CofrPAnSuer5V14ru5Rqg_7065cbe34f094fb8916d30c8cbb12df1_M4ML-C1-W1.pdf
+
+https://github.com/shilpathota/Books_Collection/blob/main/Maths/30v2dfQJT02iZ41kOj-OHw_a7a0dda7625c40f0b19c5ff17df325f1_M4ML-C1-W2.pdf
