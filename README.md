@@ -43,5 +43,7 @@ https://github.com/shilpathota/Books_Collection/blob/main/2CofrPAnSuer5V14ru5Rqg
 
 https://github.com/shilpathota/Books_Collection/blob/main/Maths/30v2dfQJT02iZ41kOj-OHw_a7a0dda7625c40f0b19c5ff17df325f1_M4ML-C1-W2.pdf
 
+https://github.com/shilpathota/Books_Collection/blob/main/Maths/s_FRnYGBQX-Q9kh64lBmqg_1609b691abc94d35b87c9b830a5251f1_M4ML-C1-W3.pdf
+
 ### Linear Model in Statistics
 https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf
