@@ -47,5 +47,8 @@ https://github.com/shilpathota/Books_Collection/blob/main/Maths/s_FRnYGBQX-Q9kh6
 
 https://github.com/shilpathota/Books_Collection/blob/main/Maths/jvAtEc72Q-yJ6NQP-tceIA_1832b16d067d4dee9bf33ffbad4b22f1_M4ML-C1-W4.pdf
 
+### Calculus material - DeepLearning.AI
+https://github.com/shilpathota/Books_Collection/blob/main/Maths/Wj84GnP7T6G7b5lpVrtxCA_20f6b53e63524b9e83d239b23c1a62f1_C2_W1.pdf
+
 ### Linear Model in Statistics
 https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf
