@@ -54,5 +54,9 @@ https://github.com/shilpathota/Books_Collection/blob/main/Maths/BeZewfdIQ5OXn36e
 
 https://github.com/shilpathota/Books_Collection/blob/main/Maths/dt8Laum9SV-8LgXXdddwIA_8ad8b7c7c8284a32844cde851a28f2f1_C2_W3.pdf
 
+### Probability Material - Deep Learning.AI
+https://github.com/shilpathota/Books_Collection/blob/main/Maths/GbR11MUHS_yDIqO7aTHkLg_b962c2adf46f40238483044966e6b7f1_M4ML-C3-W1.pdf
+
+
 ### Linear Model in Statistics
 https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf
