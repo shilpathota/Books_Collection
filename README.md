@@ -65,7 +65,12 @@ https://github.com/shilpathota/Books_Collection/blob/main/Maths/M4ML%20C3%20W3.p
 
 https://github.com/shilpathota/Books_Collection/blob/main/Maths/M4ML%20C3%20W4.pdf
 
+**References:**
+Probability and Statistics (4th Edition) , Morris H. DeGroot, Mark J. Schervish, Pearson, 2011
 
+All of Statistics: A Concise Course in Statistical Inference by Larry Wasserman, Springer, 2010 
+
+Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy. MIT Press, March 2022.  
 
 ### Linear Model in Statistics
 https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf
